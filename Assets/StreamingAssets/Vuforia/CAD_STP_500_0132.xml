@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="CAD_STP_500_0132" motionHint="static" trackingMode="car" optimizeTrackingFor="low_feature_objects"/>
+
+</Tracking>
+
+<Assembly name="CAD_STP_500_0132s_assembly" assemblyId="e1fa0b8c7bc94f5791f99fce57adf09a">
+<Part name="CAD_STP_500_0132" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="GuideView_0000" translation="0.013638 0.0138192 0.125352" rotation="AD: 0.99995 0.0469832 -0.221999 203.323" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0001" translation="-0.0022676 0.01082 0.130241" rotation="AD: 0.999968 -0.0440253 0.191089 205.479" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0002" translation="0.0130578 0.0249633 0.113599" rotation="AD: 0.999992 -0.0198661 -0.203318 169.063" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0003" translation="-0.00259928 0.0258769 0.117802" rotation="AD: 0.999993 0.0198777 0.199343 168.832" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0004" translation="-0.00612256 0.0271186 0.08905" rotation="AD: 0.0879657 -1.00736 6.71268 180.223" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0005" translation="0.01238 0.0262403 0.116985" rotation="AD: -0.962848 -0.303322 1.99421 172.503" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0006" translation="-0.0186319 0.0241858 0.125169" rotation="AD: 0.937699 -0.384922 2.15478 188.047" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0007" translation="0.0206087 0.021417 0.130396" rotation="AD: 0.999747 0.0429268 -0.616773 186.775" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0008" translation="-0.0156196 0.0179501 0.105666" rotation="AD: 0.999151 -0.078961 0.617888 192.378" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0009" translation="0.0132057 0.00486303 0.120264" rotation="AD: 0.999877 0.0829347 -0.207991 222.522" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0010" translation="-0.00742836 0.00187936 0.122721" rotation="AD: 0.999255 -0.134553 0.326091 222.521" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0011" translation="-0.00471365 0.0252256 0.109734" rotation="AD: 0.999987 0.0206743 0.25309 170.946" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0012" translation="0.0170883 0.024403 0.0999607" rotation="AD: 0.999908 -0.040982 -0.35392 167.55" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0013" translation="0.0125635 0.0256636 0.103981" rotation="AD: -0.7364 -0.870222 1.5043 154.563" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0014" translation="-0.0110009 0.0281874 0.0974437" rotation="AD: 0.334444 -1.04021 2.35978 186.489" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0015" translation="-0.0140872 0.0035749 0.12002" rotation="AD: 0.994414 -0.239424 0.546086 221.214" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0016" translation="0.0204684 0.0181597 0.10675" rotation="AD: 0.997869 0.130637 -0.593928 201.275" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>
